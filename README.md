@@ -7,11 +7,9 @@ I am now (slowly) reviewing the code and publishing it as a sort of *portfolio* 
 
 ## Take a quick look
 
-<video width="320" height="240" controls>
-  <source src="bouncing_marbles\demo.mov" type="video/mp4">
-</video>
+https://github.com/AlexLu94/MyComputerVisionPortfolio/blob/7caaafac3cb45db5c19d8a3b1fee4305887818f8/bouncing_marbles/demo.mov
 
-A demo of the project named "bouncing_marbles".
+A demo of the project named "bouncing_marbles" (if the video doesn't play, please find the .mov file in the folder).
 
 ## How to navigate
 
