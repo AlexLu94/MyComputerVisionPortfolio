@@ -7,11 +7,9 @@ I am now (slowly) reviewing the code and publishing it as a sort of *portfolio* 
 
 ## Take a quick look
 
-<video width="320" height="240" controls>
-  <source src="bouncing_marbles\demo.mov" type="video/mp4">
-</video>
+![If the gif doesn't play, find the video in the folder of the project](bouncing_marbles/demo.gif)
 
-A demo of the project named "bouncing_marbles".
+A demo of the project named "bouncing_marbles". Find the code and an higher resolution video in the folder "bouncing_marbles".
 
 ## How to navigate
 
