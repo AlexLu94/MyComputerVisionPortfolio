@@ -7,9 +7,15 @@ I am now (slowly) reviewing the code and publishing it as a sort of *portfolio* 
 
 ## Take a quick look
 
+### Bouncing marbles
+
 ![If the gif doesn't play, find the video in the folder of the project](bouncing_marbles/demo.gif)
 
-A demo of the project named "bouncing_marbles". Find the code and an higher resolution video in the folder "bouncing_marbles".
+Find the code and an higher resolution video in the folder "bouncing_marbles".
+
+### Blending images through their laplacan pyramids
+
+<img src="blend_with_laplacian_pyramids/demo1.png" height="300" />
 
 ## How to navigate
 
