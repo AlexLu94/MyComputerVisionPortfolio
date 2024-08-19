@@ -15,7 +15,9 @@ Find the code and an higher resolution video in the folder "bouncing_marbles".
 
 ### Blending images through their laplacan pyramids
 
-<img src="blend_with_laplacian_pyramids/demo1.png" height="300" />
+<img src="blend_with_laplacian_pyramids/demo1.png" height="400" />
+<img src="blend_with_laplacian_pyramids/demo2.png" height="400" />
+
 
 ## How to navigate
 
