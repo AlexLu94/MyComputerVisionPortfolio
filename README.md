@@ -13,7 +13,7 @@ I am now (slowly) reviewing the code and publishing it as a sort of *portfolio* 
 
 Find the code and an higher resolution video in the folder "bouncing_marbles".
 
-### Blending images through their laplacan pyramids
+### Blending images through their laplacian pyramids
 
 <img src="blend_with_laplacian_pyramids/demo1.png" height="400" />
 <img src="blend_with_laplacian_pyramids/demo2.png" height="400" />
